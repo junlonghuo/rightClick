@@ -10,7 +10,7 @@
         "email": "junlong.hjl@alibaba-inc.com",
         "page": ""
     },
-	"flexComboPort":"8880",
+	"flexComboPort":"80",
 	"reserveServerPort":"8080",
     "type": "kissy-gallery",
     "type-url": "http://gallery.kissyui.com/guide"
